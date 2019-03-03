@@ -1,0 +1,87 @@
+
+
+
+.top-row{
+  padding-top: 100px;
+}
+
+.card{
+  margin:10px;
+}
+
+footer{
+  position: fixed;
+  bottom:0;
+  right:0;
+  left:0;
+  margin: auto;
+  height: 75px;
+  background: rgb(5, 5, 46);
+  border-top: 10px solid goldenrod;
+  border-left: 10px solid rgb(5, 5, 46);
+  color: rgb(194, 191, 191);
+  text-align:center;
+
+}
+
+
+.navbar-brand{
+  padding:20px;
+  background-color:rgba(218, 165, 32, 0.8);
+  margin-left:40px;
+  font-family: 'Great Vibes', cursive;
+}
+
+body{
+  background-image: url(https://musclefuel.co.nz/wp-content/uploads/2017/10/awesome-and-beautiful-white-marble-background-2-minimalist-white-marble-background-with-ideas-inspiration-46042.jpg);
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight:bold;
+}
+
+#profilepic{
+  width:250px;
+}
+
+p{
+  font-size: 25px;
+}
+
+.nav-item a{
+  font-family:cursive;
+  margin-right:20px;
+}
+
+
+a:hover {
+  text-decoration: overline;
+  color:goldenrod;
+  background-color:rgb(5, 5, 46) ;
+}
+
+a:active {
+  text-decoration: underline;
+  background-color:rgb(5, 5, 46);
+  color: goldenrod;
+
+}
+
+.container{
+  margin-bottom: 150px;
+}
+
+.btn{
+  padding:10px;
+  /* opacity:0.7; */
+  position: absolute;
+  top: 157px;
+  left:0px;
+  width:100%;
+  max-width:300px;
+  text-align:center;
+  font-size:16px;
+  cursor:pointer;
+}
+
+/* .card-body{
+  height:0px;
+} */
